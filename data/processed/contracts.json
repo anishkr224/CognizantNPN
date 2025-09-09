@@ -1,0 +1,1498 @@
+[
+  {
+    "contract_id": 1,
+    "customer_id": "C1001",
+    "service_type": "bandwidth",
+    "agreed_rate": 0.02,
+    "start_date": "2024-01-07",
+    "end_date": "2024-09-26"
+  },
+  {
+    "contract_id": 2,
+    "customer_id": "C1002",
+    "service_type": "compute_instances",
+    "agreed_rate": 0.1003,
+    "start_date": "2024-01-12",
+    "end_date": "2024-11-15"
+  },
+  {
+    "contract_id": 3,
+    "customer_id": "C1003",
+    "service_type": "cloud_storage",
+    "agreed_rate": 0.0502,
+    "start_date": "2024-01-26",
+    "end_date": "2024-11-12"
+  },
+  {
+    "contract_id": 4,
+    "customer_id": "C1003",
+    "service_type": "bandwidth",
+    "agreed_rate": 0.02,
+    "start_date": "2024-01-22",
+    "end_date": "2024-10-01"
+  },
+  {
+    "contract_id": 5,
+    "customer_id": "C1004",
+    "service_type": "database_service",
+    "agreed_rate": 0.1507,
+    "start_date": "2024-01-06",
+    "end_date": "2024-12-31"
+  },
+  {
+    "contract_id": 6,
+    "customer_id": "C1005",
+    "service_type": "cloud_storage",
+    "agreed_rate": 0.0497,
+    "start_date": "2024-01-09",
+    "end_date": "2024-12-14"
+  },
+  {
+    "contract_id": 7,
+    "customer_id": "C1005",
+    "service_type": "bandwidth",
+    "agreed_rate": 0.0198,
+    "start_date": "2024-01-02",
+    "end_date": "2024-09-01"
+  },
+  {
+    "contract_id": 8,
+    "customer_id": "C1005",
+    "service_type": "database_service",
+    "agreed_rate": 0.1503,
+    "start_date": "2024-01-09",
+    "end_date": "2024-09-03"
+  },
+  {
+    "contract_id": 9,
+    "customer_id": "C1006",
+    "service_type": "bandwidth",
+    "agreed_rate": 0.0199,
+    "start_date": "2024-01-21",
+    "end_date": "2024-10-27"
+  },
+  {
+    "contract_id": 10,
+    "customer_id": "C1006",
+    "service_type": "support_plan",
+    "agreed_rate": 49.7939,
+    "start_date": "2024-01-15",
+    "end_date": "2024-08-20"
+  },
+  {
+    "contract_id": 11,
+    "customer_id": "C1006",
+    "service_type": "cloud_storage",
+    "agreed_rate": 0.0497,
+    "start_date": "2024-01-18",
+    "end_date": "2024-12-19"
+  },
+  {
+    "contract_id": 12,
+    "customer_id": "C1007",
+    "service_type": "cloud_storage",
+    "agreed_rate": 0.0503,
+    "start_date": "2024-01-02",
+    "end_date": "2024-09-18"
+  },
+  {
+    "contract_id": 13,
+    "customer_id": "C1007",
+    "service_type": "bandwidth",
+    "agreed_rate": 0.02,
+    "start_date": "2024-01-21",
+    "end_date": "2024-12-06"
+  },
+  {
+    "contract_id": 14,
+    "customer_id": "C1007",
+    "service_type": "api_calls",
+    "agreed_rate": 0.001,
+    "start_date": "2024-01-28",
+    "end_date": "2024-10-17"
+  },
+  {
+    "contract_id": 15,
+    "customer_id": "C1008",
+    "service_type": "api_calls",
+    "agreed_rate": 0.001,
+    "start_date": "2024-01-10",
+    "end_date": "2024-08-19"
+  },
+  {
+    "contract_id": 16,
+    "customer_id": "C1009",
+    "service_type": "database_service",
+    "agreed_rate": 0.1507,
+    "start_date": "2024-01-17",
+    "end_date": "2024-10-26"
+  },
+  {
+    "contract_id": 17,
+    "customer_id": "C1009",
+    "service_type": "api_calls",
+    "agreed_rate": 0.001,
+    "start_date": "2024-01-21",
+    "end_date": "2024-09-16"
+  },
+  {
+    "contract_id": 18,
+    "customer_id": "C1009",
+    "service_type": "bandwidth",
+    "agreed_rate": 0.02,
+    "start_date": "2024-01-04",
+    "end_date": "2024-10-08"
+  },
+  {
+    "contract_id": 19,
+    "customer_id": "C1010",
+    "service_type": "bandwidth",
+    "agreed_rate": 0.0199,
+    "start_date": "2024-01-20",
+    "end_date": "2024-12-09"
+  },
+  {
+    "contract_id": 20,
+    "customer_id": "C1010",
+    "service_type": "cloud_storage",
+    "agreed_rate": 0.0503,
+    "start_date": "2024-01-18",
+    "end_date": "2024-07-21"
+  },
+  {
+    "contract_id": 21,
+    "customer_id": "C1011",
+    "service_type": "api_calls",
+    "agreed_rate": 0.001,
+    "start_date": "2024-01-02",
+    "end_date": "2024-10-23"
+  },
+  {
+    "contract_id": 22,
+    "customer_id": "C1011",
+    "service_type": "cloud_storage",
+    "agreed_rate": 0.0498,
+    "start_date": "2024-01-29",
+    "end_date": "2024-09-29"
+  },
+  {
+    "contract_id": 23,
+    "customer_id": "C1011",
+    "service_type": "database_service",
+    "agreed_rate": 0.1509,
+    "start_date": "2024-01-02",
+    "end_date": "2024-07-21"
+  },
+  {
+    "contract_id": 24,
+    "customer_id": "C1012",
+    "service_type": "cloud_storage",
+    "agreed_rate": 0.0499,
+    "start_date": "2024-01-22",
+    "end_date": "2024-09-03"
+  },
+  {
+    "contract_id": 25,
+    "customer_id": "C1012",
+    "service_type": "support_plan",
+    "agreed_rate": 49.5056,
+    "start_date": "2024-01-01",
+    "end_date": "2024-10-21"
+  },
+  {
+    "contract_id": 26,
+    "customer_id": "C1012",
+    "service_type": "bandwidth",
+    "agreed_rate": 0.02,
+    "start_date": "2024-01-26",
+    "end_date": "2024-11-05"
+  },
+  {
+    "contract_id": 27,
+    "customer_id": "C1013",
+    "service_type": "bandwidth",
+    "agreed_rate": 0.02,
+    "start_date": "2024-01-08",
+    "end_date": "2024-10-26"
+  },
+  {
+    "contract_id": 28,
+    "customer_id": "C1014",
+    "service_type": "api_calls",
+    "agreed_rate": 0.001,
+    "start_date": "2024-01-11",
+    "end_date": "2024-10-11"
+  },
+  {
+    "contract_id": 29,
+    "customer_id": "C1015",
+    "service_type": "api_calls",
+    "agreed_rate": 0.001,
+    "start_date": "2024-01-09",
+    "end_date": "2024-12-25"
+  },
+  {
+    "contract_id": 30,
+    "customer_id": "C1015",
+    "service_type": "cloud_storage",
+    "agreed_rate": 0.0495,
+    "start_date": "2024-01-01",
+    "end_date": "2024-12-09"
+  },
+  {
+    "contract_id": 31,
+    "customer_id": "C1015",
+    "service_type": "support_plan",
+    "agreed_rate": 49.9936,
+    "start_date": "2024-01-10",
+    "end_date": "2024-07-28"
+  },
+  {
+    "contract_id": 32,
+    "customer_id": "C1016",
+    "service_type": "bandwidth",
+    "agreed_rate": 0.0201,
+    "start_date": "2024-01-20",
+    "end_date": "2024-11-15"
+  },
+  {
+    "contract_id": 33,
+    "customer_id": "C1017",
+    "service_type": "bandwidth",
+    "agreed_rate": 0.0199,
+    "start_date": "2024-01-08",
+    "end_date": "2024-09-28"
+  },
+  {
+    "contract_id": 34,
+    "customer_id": "C1017",
+    "service_type": "database_service",
+    "agreed_rate": 0.1488,
+    "start_date": "2024-01-02",
+    "end_date": "2024-09-19"
+  },
+  {
+    "contract_id": 35,
+    "customer_id": "C1018",
+    "service_type": "compute_instances",
+    "agreed_rate": 0.0992,
+    "start_date": "2024-01-14",
+    "end_date": "2024-12-21"
+  },
+  {
+    "contract_id": 36,
+    "customer_id": "C1018",
+    "service_type": "api_calls",
+    "agreed_rate": 0.001,
+    "start_date": "2024-01-22",
+    "end_date": "2024-08-04"
+  },
+  {
+    "contract_id": 37,
+    "customer_id": "C1019",
+    "service_type": "compute_instances",
+    "agreed_rate": 0.0998,
+    "start_date": "2024-01-09",
+    "end_date": "2024-11-30"
+  },
+  {
+    "contract_id": 38,
+    "customer_id": "C1019",
+    "service_type": "bandwidth",
+    "agreed_rate": 0.02,
+    "start_date": "2024-01-12",
+    "end_date": "2024-10-07"
+  },
+  {
+    "contract_id": 39,
+    "customer_id": "C1019",
+    "service_type": "api_calls",
+    "agreed_rate": 0.001,
+    "start_date": "2024-01-01",
+    "end_date": "2024-12-21"
+  },
+  {
+    "contract_id": 40,
+    "customer_id": "C1020",
+    "service_type": "bandwidth",
+    "agreed_rate": 0.0198,
+    "start_date": "2024-01-03",
+    "end_date": "2024-12-11"
+  },
+  {
+    "contract_id": 41,
+    "customer_id": "C1020",
+    "service_type": "compute_instances",
+    "agreed_rate": 0.1001,
+    "start_date": "2024-01-22",
+    "end_date": "2024-12-20"
+  },
+  {
+    "contract_id": 42,
+    "customer_id": "C1021",
+    "service_type": "database_service",
+    "agreed_rate": 0.15,
+    "start_date": "2024-01-16",
+    "end_date": "2024-11-16"
+  },
+  {
+    "contract_id": 43,
+    "customer_id": "C1021",
+    "service_type": "bandwidth",
+    "agreed_rate": 0.0199,
+    "start_date": "2024-01-06",
+    "end_date": "2024-11-24"
+  },
+  {
+    "contract_id": 44,
+    "customer_id": "C1022",
+    "service_type": "bandwidth",
+    "agreed_rate": 0.0199,
+    "start_date": "2024-01-18",
+    "end_date": "2025-01-14"
+  },
+  {
+    "contract_id": 45,
+    "customer_id": "C1022",
+    "service_type": "compute_instances",
+    "agreed_rate": 0.1003,
+    "start_date": "2024-01-27",
+    "end_date": "2024-11-22"
+  },
+  {
+    "contract_id": 46,
+    "customer_id": "C1023",
+    "service_type": "bandwidth",
+    "agreed_rate": 0.02,
+    "start_date": "2024-01-21",
+    "end_date": "2024-08-18"
+  },
+  {
+    "contract_id": 47,
+    "customer_id": "C1024",
+    "service_type": "api_calls",
+    "agreed_rate": 0.001,
+    "start_date": "2024-01-26",
+    "end_date": "2024-11-27"
+  },
+  {
+    "contract_id": 48,
+    "customer_id": "C1024",
+    "service_type": "support_plan",
+    "agreed_rate": 49.5977,
+    "start_date": "2024-01-08",
+    "end_date": "2024-12-25"
+  },
+  {
+    "contract_id": 49,
+    "customer_id": "C1025",
+    "service_type": "support_plan",
+    "agreed_rate": 50.2049,
+    "start_date": "2024-01-10",
+    "end_date": "2024-11-05"
+  },
+  {
+    "contract_id": 50,
+    "customer_id": "C1026",
+    "service_type": "bandwidth",
+    "agreed_rate": 0.02,
+    "start_date": "2024-01-28",
+    "end_date": "2024-08-09"
+  },
+  {
+    "contract_id": 51,
+    "customer_id": "C1026",
+    "service_type": "cloud_storage",
+    "agreed_rate": 0.0505,
+    "start_date": "2024-01-01",
+    "end_date": "2024-07-06"
+  },
+  {
+    "contract_id": 52,
+    "customer_id": "C1026",
+    "service_type": "api_calls",
+    "agreed_rate": 0.001,
+    "start_date": "2024-01-11",
+    "end_date": "2025-01-05"
+  },
+  {
+    "contract_id": 53,
+    "customer_id": "C1027",
+    "service_type": "support_plan",
+    "agreed_rate": 50.4365,
+    "start_date": "2024-01-16",
+    "end_date": "2024-11-02"
+  },
+  {
+    "contract_id": 54,
+    "customer_id": "C1028",
+    "service_type": "bandwidth",
+    "agreed_rate": 0.0198,
+    "start_date": "2024-01-21",
+    "end_date": "2024-07-25"
+  },
+  {
+    "contract_id": 55,
+    "customer_id": "C1028",
+    "service_type": "database_service",
+    "agreed_rate": 0.15,
+    "start_date": "2024-01-18",
+    "end_date": "2024-11-24"
+  },
+  {
+    "contract_id": 56,
+    "customer_id": "C1028",
+    "service_type": "cloud_storage",
+    "agreed_rate": 0.0505,
+    "start_date": "2024-01-28",
+    "end_date": "2024-10-16"
+  },
+  {
+    "contract_id": 57,
+    "customer_id": "C1029",
+    "service_type": "bandwidth",
+    "agreed_rate": 0.02,
+    "start_date": "2024-01-18",
+    "end_date": "2024-07-22"
+  },
+  {
+    "contract_id": 58,
+    "customer_id": "C1029",
+    "service_type": "compute_instances",
+    "agreed_rate": 0.1006,
+    "start_date": "2024-01-14",
+    "end_date": "2024-11-22"
+  },
+  {
+    "contract_id": 59,
+    "customer_id": "C1029",
+    "service_type": "api_calls",
+    "agreed_rate": 0.001,
+    "start_date": "2024-01-12",
+    "end_date": "2024-08-06"
+  },
+  {
+    "contract_id": 60,
+    "customer_id": "C1030",
+    "service_type": "support_plan",
+    "agreed_rate": 49.5925,
+    "start_date": "2024-01-11",
+    "end_date": "2024-10-13"
+  },
+  {
+    "contract_id": 61,
+    "customer_id": "C1030",
+    "service_type": "compute_instances",
+    "agreed_rate": 0.0998,
+    "start_date": "2024-01-24",
+    "end_date": "2024-09-27"
+  },
+  {
+    "contract_id": 62,
+    "customer_id": "C1030",
+    "service_type": "database_service",
+    "agreed_rate": 0.1503,
+    "start_date": "2024-01-13",
+    "end_date": "2024-10-21"
+  },
+  {
+    "contract_id": 63,
+    "customer_id": "C1031",
+    "service_type": "support_plan",
+    "agreed_rate": 49.8582,
+    "start_date": "2024-01-10",
+    "end_date": "2024-07-09"
+  },
+  {
+    "contract_id": 64,
+    "customer_id": "C1031",
+    "service_type": "bandwidth",
+    "agreed_rate": 0.0199,
+    "start_date": "2024-01-20",
+    "end_date": "2024-12-17"
+  },
+  {
+    "contract_id": 65,
+    "customer_id": "C1032",
+    "service_type": "database_service",
+    "agreed_rate": 0.1498,
+    "start_date": "2024-01-17",
+    "end_date": "2024-08-11"
+  },
+  {
+    "contract_id": 66,
+    "customer_id": "C1033",
+    "service_type": "bandwidth",
+    "agreed_rate": 0.0201,
+    "start_date": "2024-01-05",
+    "end_date": "2024-08-17"
+  },
+  {
+    "contract_id": 67,
+    "customer_id": "C1034",
+    "service_type": "support_plan",
+    "agreed_rate": 49.5559,
+    "start_date": "2024-01-13",
+    "end_date": "2024-10-01"
+  },
+  {
+    "contract_id": 68,
+    "customer_id": "C1035",
+    "service_type": "api_calls",
+    "agreed_rate": 0.001,
+    "start_date": "2024-01-30",
+    "end_date": "2024-09-11"
+  },
+  {
+    "contract_id": 69,
+    "customer_id": "C1036",
+    "service_type": "cloud_storage",
+    "agreed_rate": 0.0503,
+    "start_date": "2024-01-27",
+    "end_date": "2024-12-08"
+  },
+  {
+    "contract_id": 70,
+    "customer_id": "C1036",
+    "service_type": "api_calls",
+    "agreed_rate": 0.001,
+    "start_date": "2024-01-11",
+    "end_date": "2024-10-01"
+  },
+  {
+    "contract_id": 71,
+    "customer_id": "C1036",
+    "service_type": "bandwidth",
+    "agreed_rate": 0.0199,
+    "start_date": "2024-01-23",
+    "end_date": "2024-08-09"
+  },
+  {
+    "contract_id": 72,
+    "customer_id": "C1037",
+    "service_type": "compute_instances",
+    "agreed_rate": 0.1008,
+    "start_date": "2024-01-16",
+    "end_date": "2024-11-28"
+  },
+  {
+    "contract_id": 73,
+    "customer_id": "C1037",
+    "service_type": "cloud_storage",
+    "agreed_rate": 0.0503,
+    "start_date": "2024-01-17",
+    "end_date": "2024-07-24"
+  },
+  {
+    "contract_id": 74,
+    "customer_id": "C1038",
+    "service_type": "cloud_storage",
+    "agreed_rate": 0.0497,
+    "start_date": "2024-01-31",
+    "end_date": "2024-12-15"
+  },
+  {
+    "contract_id": 75,
+    "customer_id": "C1039",
+    "service_type": "database_service",
+    "agreed_rate": 0.1499,
+    "start_date": "2024-01-29",
+    "end_date": "2024-09-19"
+  },
+  {
+    "contract_id": 76,
+    "customer_id": "C1040",
+    "service_type": "database_service",
+    "agreed_rate": 0.1506,
+    "start_date": "2024-01-24",
+    "end_date": "2024-09-02"
+  },
+  {
+    "contract_id": 77,
+    "customer_id": "C1041",
+    "service_type": "cloud_storage",
+    "agreed_rate": 0.0498,
+    "start_date": "2024-01-04",
+    "end_date": "2024-09-28"
+  },
+  {
+    "contract_id": 78,
+    "customer_id": "C1042",
+    "service_type": "bandwidth",
+    "agreed_rate": 0.0201,
+    "start_date": "2024-01-25",
+    "end_date": "2024-10-28"
+  },
+  {
+    "contract_id": 79,
+    "customer_id": "C1042",
+    "service_type": "database_service",
+    "agreed_rate": 0.1498,
+    "start_date": "2024-01-02",
+    "end_date": "2024-07-20"
+  },
+  {
+    "contract_id": 80,
+    "customer_id": "C1042",
+    "service_type": "api_calls",
+    "agreed_rate": 0.001,
+    "start_date": "2024-01-31",
+    "end_date": "2024-11-06"
+  },
+  {
+    "contract_id": 81,
+    "customer_id": "C1043",
+    "service_type": "bandwidth",
+    "agreed_rate": 0.0199,
+    "start_date": "2024-01-11",
+    "end_date": "2024-09-22"
+  },
+  {
+    "contract_id": 82,
+    "customer_id": "C1043",
+    "service_type": "api_calls",
+    "agreed_rate": 0.001,
+    "start_date": "2024-01-27",
+    "end_date": "2024-09-18"
+  },
+  {
+    "contract_id": 83,
+    "customer_id": "C1044",
+    "service_type": "compute_instances",
+    "agreed_rate": 0.099,
+    "start_date": "2024-01-18",
+    "end_date": "2024-12-25"
+  },
+  {
+    "contract_id": 84,
+    "customer_id": "C1045",
+    "service_type": "support_plan",
+    "agreed_rate": 50.1343,
+    "start_date": "2024-01-21",
+    "end_date": "2025-01-16"
+  },
+  {
+    "contract_id": 85,
+    "customer_id": "C1045",
+    "service_type": "database_service",
+    "agreed_rate": 0.151,
+    "start_date": "2024-01-27",
+    "end_date": "2024-10-18"
+  },
+  {
+    "contract_id": 86,
+    "customer_id": "C1045",
+    "service_type": "compute_instances",
+    "agreed_rate": 0.1004,
+    "start_date": "2024-01-01",
+    "end_date": "2024-08-16"
+  },
+  {
+    "contract_id": 87,
+    "customer_id": "C1046",
+    "service_type": "api_calls",
+    "agreed_rate": 0.001,
+    "start_date": "2024-01-08",
+    "end_date": "2024-09-30"
+  },
+  {
+    "contract_id": 88,
+    "customer_id": "C1046",
+    "service_type": "support_plan",
+    "agreed_rate": 49.7456,
+    "start_date": "2024-01-08",
+    "end_date": "2024-08-25"
+  },
+  {
+    "contract_id": 89,
+    "customer_id": "C1047",
+    "service_type": "cloud_storage",
+    "agreed_rate": 0.0504,
+    "start_date": "2024-01-07",
+    "end_date": "2024-10-20"
+  },
+  {
+    "contract_id": 90,
+    "customer_id": "C1047",
+    "service_type": "support_plan",
+    "agreed_rate": 49.962,
+    "start_date": "2024-01-22",
+    "end_date": "2024-07-29"
+  },
+  {
+    "contract_id": 91,
+    "customer_id": "C1047",
+    "service_type": "bandwidth",
+    "agreed_rate": 0.0199,
+    "start_date": "2024-01-03",
+    "end_date": "2024-10-21"
+  },
+  {
+    "contract_id": 92,
+    "customer_id": "C1048",
+    "service_type": "cloud_storage",
+    "agreed_rate": 0.0498,
+    "start_date": "2024-01-11",
+    "end_date": "2024-07-09"
+  },
+  {
+    "contract_id": 93,
+    "customer_id": "C1049",
+    "service_type": "api_calls",
+    "agreed_rate": 0.001,
+    "start_date": "2024-01-22",
+    "end_date": "2024-10-18"
+  },
+  {
+    "contract_id": 94,
+    "customer_id": "C1049",
+    "service_type": "cloud_storage",
+    "agreed_rate": 0.0503,
+    "start_date": "2024-01-28",
+    "end_date": "2024-12-20"
+  },
+  {
+    "contract_id": 95,
+    "customer_id": "C1049",
+    "service_type": "support_plan",
+    "agreed_rate": 49.9345,
+    "start_date": "2024-01-26",
+    "end_date": "2024-11-14"
+  },
+  {
+    "contract_id": 96,
+    "customer_id": "C1050",
+    "service_type": "database_service",
+    "agreed_rate": 0.1505,
+    "start_date": "2024-01-23",
+    "end_date": "2024-12-18"
+  },
+  {
+    "contract_id": 97,
+    "customer_id": "C1051",
+    "service_type": "cloud_storage",
+    "agreed_rate": 0.0499,
+    "start_date": "2024-01-04",
+    "end_date": "2024-12-27"
+  },
+  {
+    "contract_id": 98,
+    "customer_id": "C1051",
+    "service_type": "support_plan",
+    "agreed_rate": 50.0508,
+    "start_date": "2024-01-03",
+    "end_date": "2024-10-26"
+  },
+  {
+    "contract_id": 99,
+    "customer_id": "C1051",
+    "service_type": "api_calls",
+    "agreed_rate": 0.001,
+    "start_date": "2024-01-04",
+    "end_date": "2025-01-02"
+  },
+  {
+    "contract_id": 100,
+    "customer_id": "C1052",
+    "service_type": "compute_instances",
+    "agreed_rate": 0.0994,
+    "start_date": "2024-01-29",
+    "end_date": "2024-09-25"
+  },
+  {
+    "contract_id": 101,
+    "customer_id": "C1053",
+    "service_type": "database_service",
+    "agreed_rate": 0.149,
+    "start_date": "2024-01-29",
+    "end_date": "2024-11-27"
+  },
+  {
+    "contract_id": 102,
+    "customer_id": "C1054",
+    "service_type": "api_calls",
+    "agreed_rate": 0.001,
+    "start_date": "2024-01-25",
+    "end_date": "2025-01-02"
+  },
+  {
+    "contract_id": 103,
+    "customer_id": "C1054",
+    "service_type": "support_plan",
+    "agreed_rate": 50.0338,
+    "start_date": "2024-01-28",
+    "end_date": "2024-07-26"
+  },
+  {
+    "contract_id": 104,
+    "customer_id": "C1054",
+    "service_type": "compute_instances",
+    "agreed_rate": 0.1003,
+    "start_date": "2024-01-21",
+    "end_date": "2024-08-25"
+  },
+  {
+    "contract_id": 105,
+    "customer_id": "C1055",
+    "service_type": "bandwidth",
+    "agreed_rate": 0.02,
+    "start_date": "2024-01-27",
+    "end_date": "2025-01-09"
+  },
+  {
+    "contract_id": 106,
+    "customer_id": "C1056",
+    "service_type": "database_service",
+    "agreed_rate": 0.1498,
+    "start_date": "2024-01-11",
+    "end_date": "2024-09-12"
+  },
+  {
+    "contract_id": 107,
+    "customer_id": "C1057",
+    "service_type": "database_service",
+    "agreed_rate": 0.1504,
+    "start_date": "2024-01-10",
+    "end_date": "2024-12-10"
+  },
+  {
+    "contract_id": 108,
+    "customer_id": "C1058",
+    "service_type": "compute_instances",
+    "agreed_rate": 0.1008,
+    "start_date": "2024-01-26",
+    "end_date": "2024-12-19"
+  },
+  {
+    "contract_id": 109,
+    "customer_id": "C1059",
+    "service_type": "bandwidth",
+    "agreed_rate": 0.02,
+    "start_date": "2024-01-21",
+    "end_date": "2024-08-17"
+  },
+  {
+    "contract_id": 110,
+    "customer_id": "C1060",
+    "service_type": "support_plan",
+    "agreed_rate": 49.5552,
+    "start_date": "2024-01-12",
+    "end_date": "2024-08-14"
+  },
+  {
+    "contract_id": 111,
+    "customer_id": "C1061",
+    "service_type": "database_service",
+    "agreed_rate": 0.1514,
+    "start_date": "2024-01-26",
+    "end_date": "2024-09-18"
+  },
+  {
+    "contract_id": 112,
+    "customer_id": "C1062",
+    "service_type": "api_calls",
+    "agreed_rate": 0.001,
+    "start_date": "2024-01-18",
+    "end_date": "2024-08-30"
+  },
+  {
+    "contract_id": 113,
+    "customer_id": "C1063",
+    "service_type": "support_plan",
+    "agreed_rate": 50.0691,
+    "start_date": "2024-01-18",
+    "end_date": "2024-08-31"
+  },
+  {
+    "contract_id": 114,
+    "customer_id": "C1064",
+    "service_type": "compute_instances",
+    "agreed_rate": 0.1,
+    "start_date": "2024-01-17",
+    "end_date": "2024-07-21"
+  },
+  {
+    "contract_id": 115,
+    "customer_id": "C1065",
+    "service_type": "database_service",
+    "agreed_rate": 0.1501,
+    "start_date": "2024-01-21",
+    "end_date": "2024-10-31"
+  },
+  {
+    "contract_id": 116,
+    "customer_id": "C1065",
+    "service_type": "compute_instances",
+    "agreed_rate": 0.0993,
+    "start_date": "2024-01-29",
+    "end_date": "2024-10-11"
+  },
+  {
+    "contract_id": 117,
+    "customer_id": "C1065",
+    "service_type": "api_calls",
+    "agreed_rate": 0.001,
+    "start_date": "2024-01-29",
+    "end_date": "2024-11-23"
+  },
+  {
+    "contract_id": 118,
+    "customer_id": "C1066",
+    "service_type": "support_plan",
+    "agreed_rate": 49.7987,
+    "start_date": "2024-01-25",
+    "end_date": "2024-09-20"
+  },
+  {
+    "contract_id": 119,
+    "customer_id": "C1066",
+    "service_type": "cloud_storage",
+    "agreed_rate": 0.0499,
+    "start_date": "2024-01-28",
+    "end_date": "2024-08-21"
+  },
+  {
+    "contract_id": 120,
+    "customer_id": "C1066",
+    "service_type": "compute_instances",
+    "agreed_rate": 0.0991,
+    "start_date": "2024-01-08",
+    "end_date": "2025-01-03"
+  },
+  {
+    "contract_id": 121,
+    "customer_id": "C1067",
+    "service_type": "database_service",
+    "agreed_rate": 0.1494,
+    "start_date": "2024-01-06",
+    "end_date": "2024-07-30"
+  },
+  {
+    "contract_id": 122,
+    "customer_id": "C1067",
+    "service_type": "api_calls",
+    "agreed_rate": 0.001,
+    "start_date": "2024-01-07",
+    "end_date": "2024-12-01"
+  },
+  {
+    "contract_id": 123,
+    "customer_id": "C1067",
+    "service_type": "cloud_storage",
+    "agreed_rate": 0.0504,
+    "start_date": "2024-01-23",
+    "end_date": "2024-10-23"
+  },
+  {
+    "contract_id": 124,
+    "customer_id": "C1068",
+    "service_type": "compute_instances",
+    "agreed_rate": 0.0991,
+    "start_date": "2024-01-29",
+    "end_date": "2024-10-26"
+  },
+  {
+    "contract_id": 125,
+    "customer_id": "C1068",
+    "service_type": "database_service",
+    "agreed_rate": 0.1496,
+    "start_date": "2024-01-08",
+    "end_date": "2024-11-28"
+  },
+  {
+    "contract_id": 126,
+    "customer_id": "C1068",
+    "service_type": "bandwidth",
+    "agreed_rate": 0.0202,
+    "start_date": "2024-01-09",
+    "end_date": "2024-10-23"
+  },
+  {
+    "contract_id": 127,
+    "customer_id": "C1069",
+    "service_type": "api_calls",
+    "agreed_rate": 0.001,
+    "start_date": "2024-01-05",
+    "end_date": "2024-07-03"
+  },
+  {
+    "contract_id": 128,
+    "customer_id": "C1070",
+    "service_type": "cloud_storage",
+    "agreed_rate": 0.0497,
+    "start_date": "2024-01-01",
+    "end_date": "2024-10-17"
+  },
+  {
+    "contract_id": 129,
+    "customer_id": "C1070",
+    "service_type": "support_plan",
+    "agreed_rate": 50.1667,
+    "start_date": "2024-01-10",
+    "end_date": "2024-11-07"
+  },
+  {
+    "contract_id": 130,
+    "customer_id": "C1071",
+    "service_type": "compute_instances",
+    "agreed_rate": 0.0997,
+    "start_date": "2024-01-07",
+    "end_date": "2024-09-18"
+  },
+  {
+    "contract_id": 131,
+    "customer_id": "C1072",
+    "service_type": "bandwidth",
+    "agreed_rate": 0.0199,
+    "start_date": "2024-01-26",
+    "end_date": "2024-11-08"
+  },
+  {
+    "contract_id": 132,
+    "customer_id": "C1073",
+    "service_type": "support_plan",
+    "agreed_rate": 50.1948,
+    "start_date": "2024-01-11",
+    "end_date": "2024-11-06"
+  },
+  {
+    "contract_id": 133,
+    "customer_id": "C1073",
+    "service_type": "api_calls",
+    "agreed_rate": 0.001,
+    "start_date": "2024-01-19",
+    "end_date": "2024-12-09"
+  },
+  {
+    "contract_id": 134,
+    "customer_id": "C1074",
+    "service_type": "database_service",
+    "agreed_rate": 0.1486,
+    "start_date": "2024-01-10",
+    "end_date": "2024-10-19"
+  },
+  {
+    "contract_id": 135,
+    "customer_id": "C1075",
+    "service_type": "api_calls",
+    "agreed_rate": 0.001,
+    "start_date": "2024-01-17",
+    "end_date": "2024-11-26"
+  },
+  {
+    "contract_id": 136,
+    "customer_id": "C1076",
+    "service_type": "api_calls",
+    "agreed_rate": 0.001,
+    "start_date": "2024-01-07",
+    "end_date": "2024-10-28"
+  },
+  {
+    "contract_id": 137,
+    "customer_id": "C1076",
+    "service_type": "bandwidth",
+    "agreed_rate": 0.0201,
+    "start_date": "2024-01-03",
+    "end_date": "2024-11-23"
+  },
+  {
+    "contract_id": 138,
+    "customer_id": "C1077",
+    "service_type": "cloud_storage",
+    "agreed_rate": 0.0496,
+    "start_date": "2024-01-07",
+    "end_date": "2024-10-25"
+  },
+  {
+    "contract_id": 139,
+    "customer_id": "C1078",
+    "service_type": "support_plan",
+    "agreed_rate": 49.5765,
+    "start_date": "2024-01-16",
+    "end_date": "2024-12-30"
+  },
+  {
+    "contract_id": 140,
+    "customer_id": "C1079",
+    "service_type": "compute_instances",
+    "agreed_rate": 0.1005,
+    "start_date": "2024-01-05",
+    "end_date": "2024-11-13"
+  },
+  {
+    "contract_id": 141,
+    "customer_id": "C1079",
+    "service_type": "database_service",
+    "agreed_rate": 0.1499,
+    "start_date": "2024-01-17",
+    "end_date": "2024-11-25"
+  },
+  {
+    "contract_id": 142,
+    "customer_id": "C1080",
+    "service_type": "database_service",
+    "agreed_rate": 0.1496,
+    "start_date": "2024-01-02",
+    "end_date": "2024-08-04"
+  },
+  {
+    "contract_id": 143,
+    "customer_id": "C1080",
+    "service_type": "support_plan",
+    "agreed_rate": 50.074,
+    "start_date": "2024-01-14",
+    "end_date": "2024-10-08"
+  },
+  {
+    "contract_id": 144,
+    "customer_id": "C1080",
+    "service_type": "cloud_storage",
+    "agreed_rate": 0.0497,
+    "start_date": "2024-01-02",
+    "end_date": "2024-12-09"
+  },
+  {
+    "contract_id": 145,
+    "customer_id": "C1081",
+    "service_type": "compute_instances",
+    "agreed_rate": 0.0998,
+    "start_date": "2024-01-14",
+    "end_date": "2024-07-26"
+  },
+  {
+    "contract_id": 146,
+    "customer_id": "C1081",
+    "service_type": "bandwidth",
+    "agreed_rate": 0.0201,
+    "start_date": "2024-01-04",
+    "end_date": "2025-01-02"
+  },
+  {
+    "contract_id": 147,
+    "customer_id": "C1081",
+    "service_type": "api_calls",
+    "agreed_rate": 0.001,
+    "start_date": "2024-01-21",
+    "end_date": "2025-01-14"
+  },
+  {
+    "contract_id": 148,
+    "customer_id": "C1082",
+    "service_type": "compute_instances",
+    "agreed_rate": 0.1002,
+    "start_date": "2024-01-08",
+    "end_date": "2024-12-22"
+  },
+  {
+    "contract_id": 149,
+    "customer_id": "C1083",
+    "service_type": "support_plan",
+    "agreed_rate": 50.0177,
+    "start_date": "2024-01-13",
+    "end_date": "2024-09-23"
+  },
+  {
+    "contract_id": 150,
+    "customer_id": "C1083",
+    "service_type": "api_calls",
+    "agreed_rate": 0.001,
+    "start_date": "2024-01-28",
+    "end_date": "2024-09-23"
+  },
+  {
+    "contract_id": 151,
+    "customer_id": "C1084",
+    "service_type": "bandwidth",
+    "agreed_rate": 0.0201,
+    "start_date": "2024-01-03",
+    "end_date": "2024-12-08"
+  },
+  {
+    "contract_id": 152,
+    "customer_id": "C1084",
+    "service_type": "database_service",
+    "agreed_rate": 0.1507,
+    "start_date": "2024-01-02",
+    "end_date": "2024-09-02"
+  },
+  {
+    "contract_id": 153,
+    "customer_id": "C1085",
+    "service_type": "api_calls",
+    "agreed_rate": 0.001,
+    "start_date": "2024-01-10",
+    "end_date": "2024-09-03"
+  },
+  {
+    "contract_id": 154,
+    "customer_id": "C1085",
+    "service_type": "support_plan",
+    "agreed_rate": 49.8062,
+    "start_date": "2024-01-31",
+    "end_date": "2024-11-11"
+  },
+  {
+    "contract_id": 155,
+    "customer_id": "C1085",
+    "service_type": "cloud_storage",
+    "agreed_rate": 0.0498,
+    "start_date": "2024-01-17",
+    "end_date": "2024-12-09"
+  },
+  {
+    "contract_id": 156,
+    "customer_id": "C1086",
+    "service_type": "database_service",
+    "agreed_rate": 0.1494,
+    "start_date": "2024-01-14",
+    "end_date": "2024-11-27"
+  },
+  {
+    "contract_id": 157,
+    "customer_id": "C1087",
+    "service_type": "cloud_storage",
+    "agreed_rate": 0.0498,
+    "start_date": "2024-01-26",
+    "end_date": "2024-08-10"
+  },
+  {
+    "contract_id": 158,
+    "customer_id": "C1087",
+    "service_type": "support_plan",
+    "agreed_rate": 50.3942,
+    "start_date": "2024-01-06",
+    "end_date": "2024-08-26"
+  },
+  {
+    "contract_id": 159,
+    "customer_id": "C1088",
+    "service_type": "database_service",
+    "agreed_rate": 0.1495,
+    "start_date": "2024-01-30",
+    "end_date": "2024-11-03"
+  },
+  {
+    "contract_id": 160,
+    "customer_id": "C1088",
+    "service_type": "bandwidth",
+    "agreed_rate": 0.0199,
+    "start_date": "2024-01-28",
+    "end_date": "2024-10-30"
+  },
+  {
+    "contract_id": 161,
+    "customer_id": "C1089",
+    "service_type": "cloud_storage",
+    "agreed_rate": 0.0502,
+    "start_date": "2024-01-10",
+    "end_date": "2024-11-20"
+  },
+  {
+    "contract_id": 162,
+    "customer_id": "C1090",
+    "service_type": "cloud_storage",
+    "agreed_rate": 0.0505,
+    "start_date": "2024-01-23",
+    "end_date": "2024-11-08"
+  },
+  {
+    "contract_id": 163,
+    "customer_id": "C1090",
+    "service_type": "database_service",
+    "agreed_rate": 0.1511,
+    "start_date": "2024-01-09",
+    "end_date": "2024-12-14"
+  },
+  {
+    "contract_id": 164,
+    "customer_id": "C1090",
+    "service_type": "support_plan",
+    "agreed_rate": 50.0927,
+    "start_date": "2024-01-28",
+    "end_date": "2024-12-23"
+  },
+  {
+    "contract_id": 165,
+    "customer_id": "C1091",
+    "service_type": "support_plan",
+    "agreed_rate": 50.0773,
+    "start_date": "2024-01-11",
+    "end_date": "2024-09-19"
+  },
+  {
+    "contract_id": 166,
+    "customer_id": "C1091",
+    "service_type": "api_calls",
+    "agreed_rate": 0.001,
+    "start_date": "2024-01-24",
+    "end_date": "2024-10-25"
+  },
+  {
+    "contract_id": 167,
+    "customer_id": "C1091",
+    "service_type": "cloud_storage",
+    "agreed_rate": 0.0497,
+    "start_date": "2024-01-23",
+    "end_date": "2025-01-20"
+  },
+  {
+    "contract_id": 168,
+    "customer_id": "C1092",
+    "service_type": "api_calls",
+    "agreed_rate": 0.001,
+    "start_date": "2024-01-02",
+    "end_date": "2024-10-04"
+  },
+  {
+    "contract_id": 169,
+    "customer_id": "C1093",
+    "service_type": "compute_instances",
+    "agreed_rate": 0.1006,
+    "start_date": "2024-01-22",
+    "end_date": "2024-10-23"
+  },
+  {
+    "contract_id": 170,
+    "customer_id": "C1093",
+    "service_type": "support_plan",
+    "agreed_rate": 49.6887,
+    "start_date": "2024-01-18",
+    "end_date": "2024-09-21"
+  },
+  {
+    "contract_id": 171,
+    "customer_id": "C1094",
+    "service_type": "cloud_storage",
+    "agreed_rate": 0.0498,
+    "start_date": "2024-01-13",
+    "end_date": "2024-09-10"
+  },
+  {
+    "contract_id": 172,
+    "customer_id": "C1095",
+    "service_type": "cloud_storage",
+    "agreed_rate": 0.0503,
+    "start_date": "2024-01-12",
+    "end_date": "2024-10-14"
+  },
+  {
+    "contract_id": 173,
+    "customer_id": "C1095",
+    "service_type": "bandwidth",
+    "agreed_rate": 0.0199,
+    "start_date": "2024-01-31",
+    "end_date": "2024-09-13"
+  },
+  {
+    "contract_id": 174,
+    "customer_id": "C1096",
+    "service_type": "database_service",
+    "agreed_rate": 0.1488,
+    "start_date": "2024-01-24",
+    "end_date": "2024-12-23"
+  },
+  {
+    "contract_id": 175,
+    "customer_id": "C1096",
+    "service_type": "api_calls",
+    "agreed_rate": 0.001,
+    "start_date": "2024-01-04",
+    "end_date": "2024-10-02"
+  },
+  {
+    "contract_id": 176,
+    "customer_id": "C1096",
+    "service_type": "cloud_storage",
+    "agreed_rate": 0.0502,
+    "start_date": "2024-01-28",
+    "end_date": "2024-12-16"
+  },
+  {
+    "contract_id": 177,
+    "customer_id": "C1097",
+    "service_type": "bandwidth",
+    "agreed_rate": 0.0198,
+    "start_date": "2024-01-12",
+    "end_date": "2024-09-01"
+  },
+  {
+    "contract_id": 178,
+    "customer_id": "C1097",
+    "service_type": "support_plan",
+    "agreed_rate": 50.1749,
+    "start_date": "2024-01-06",
+    "end_date": "2024-11-12"
+  },
+  {
+    "contract_id": 179,
+    "customer_id": "C1098",
+    "service_type": "support_plan",
+    "agreed_rate": 50.1251,
+    "start_date": "2024-01-01",
+    "end_date": "2024-08-17"
+  },
+  {
+    "contract_id": 180,
+    "customer_id": "C1098",
+    "service_type": "bandwidth",
+    "agreed_rate": 0.0202,
+    "start_date": "2024-01-17",
+    "end_date": "2024-11-05"
+  },
+  {
+    "contract_id": 181,
+    "customer_id": "C1098",
+    "service_type": "compute_instances",
+    "agreed_rate": 0.101,
+    "start_date": "2024-01-13",
+    "end_date": "2024-12-31"
+  },
+  {
+    "contract_id": 182,
+    "customer_id": "C1099",
+    "service_type": "api_calls",
+    "agreed_rate": 0.001,
+    "start_date": "2024-01-14",
+    "end_date": "2024-10-14"
+  },
+  {
+    "contract_id": 183,
+    "customer_id": "C1099",
+    "service_type": "compute_instances",
+    "agreed_rate": 0.0999,
+    "start_date": "2024-01-20",
+    "end_date": "2024-07-21"
+  },
+  {
+    "contract_id": 184,
+    "customer_id": "C1099",
+    "service_type": "cloud_storage",
+    "agreed_rate": 0.0504,
+    "start_date": "2024-01-08",
+    "end_date": "2024-12-11"
+  },
+  {
+    "contract_id": 185,
+    "customer_id": "C1100",
+    "service_type": "cloud_storage",
+    "agreed_rate": 0.0497,
+    "start_date": "2024-01-17",
+    "end_date": "2024-10-21"
+  },
+  {
+    "contract_id": 186,
+    "customer_id": "C1100",
+    "service_type": "database_service",
+    "agreed_rate": 0.1503,
+    "start_date": "2024-01-13",
+    "end_date": "2024-12-28"
+  },
+  {
+    "contract_id": 187,
+    "customer_id": "C1100",
+    "service_type": "compute_instances",
+    "agreed_rate": 0.1001,
+    "start_date": "2024-01-10",
+    "end_date": "2024-09-21"
+  }
+]

@@ -1,0 +1,21 @@
+# Docker Compose configuration for AI Revenue Leakage Detection System
+
+version: '3.8'
+
+services:
+  airld-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: airld-app
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./data:/app/data
+      - ./models:/app/models
+      - ./validation_results:/app/validation_results
+    env_file:
+      - .env
+    restart: unless-stopped
+    environment:
+      - PYTHONUNBUFFERED=1
