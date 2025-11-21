@@ -60,10 +60,7 @@ It provides near real-time alerts, automated ticket creation, root cause analysi
 ### Environment Setup
 
 1. Clone the repository
-2. Create a `.env` file based on `.env.example`:
-   ```
-   cp .env.example .env
-   ```
+2. Create a `.env` file
 3. Add your API keys to the `.env` file
 
 ### Installation
