@@ -25,29 +25,28 @@ It provides near real-time alerts, automated ticket creation, root cause analysi
 ## Project Structure
 
 ```
-.
 ├── agents/                # CrewAI agent system components
-│   ├── agents.py         # Agent definitions and crew setup
-│   └── tools.py          # Custom tools for agents
+│   ├── agents.py          # Agent definitions and crew setup
+│   └── tools.py           # Custom tools for agents
 ├── data/                  # Data storage directory
 │   ├── raw/               # Raw data files
 │   └── processed/         # Processed data files
 ├── models/                # Vector database and model files
 ├── ui/                    # Streamlit UI code
-│   └── streamlit_app.py  # Streamlit application
+│   └── streamlit_app.py   # Streamlit application
 ├── utils/                 # Utility functions
-│   ├── data_generator.py # Synthetic data generation
-│   ├── evaluation.py     # Evaluation metrics
-│   └── knowledge_base.py # RAG system setup
+│   ├── data_generator.py  # Synthetic data generation
+│   ├── evaluation.py      # Evaluation metrics
+│   └── knowledge_base.py  # RAG system setup
 ├── validation_results/    # Validation outputs
-├── .env.example          # Environment variables template
-├── app.py                # Main application entry point
-├── config.py             # Configuration settings
-├── Dockerfile            # Docker container definition
-├── docker-compose.yml    # Docker Compose configuration
-├── requirements.txt      # Project dependencies
-├── validate_system.py    # System validation script
-└── README.md             # Project documentation
+├── .env                   # Environment variables template
+├── app.py                 # Main application entry point
+├── config.py              # Configuration settings
+├── Dockerfile             # Docker container definition
+├── docker-compose.yml     # Docker Compose configuration
+├── requirements.txt       # Project dependencies
+├── validate_system.py     # System validation script
+└── README.md              # Project documentation
 ```
 
 ## Setup and Installation
